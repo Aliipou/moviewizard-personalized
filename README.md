@@ -140,7 +140,7 @@ We welcome contributions! Here's how you can help:
 ## 📞 Contact
 
 **Project Creator**: Ali Pourrahim
-- **LinkedIn**: [linkedin.com/in/alipourrahim](https://www.linkedin.com/in/alipourrahim/)
+- **LinkedIn**: [linkedin.com/in/alipourrahim](https://www.linkedin.com/fi/alipourrahim/)
 
 ## 📄 License
 
